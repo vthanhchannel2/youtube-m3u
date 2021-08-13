@@ -1,0 +1,14 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+COVID-19 Stats | Live YouTube | https://i.ytimg.com/vi/NMre6IAAAiU/maxresdefault.jpg |
+https://www.youtube.com/watch?v=NMre6IAAAiU
+NCS Music | Live YouTube | https://i.ytimg.com/vi/7tNtU5XFwrU/maxresdefault.jpg |
+https://www.youtube.com/watch?v=7tNtU5XFwrU
+Lofi Girl | Live YouTube | https://i.ytimg.com/vi/5qap5aO4i9A/maxresdefault.jpg |
+https://www.youtube.com/watch?v=5qap5aO4i9A
+Talking Tom | Live YouTube | https://i.ytimg.com/vi/2PeFhZg-Ci4/maxresdefault.jpg |
+https://www.youtube.com/watch?v=2PeFhZg-Ci4
+Conan | Live YouTube | https://i.ytimg.com/vi/ap_r-FDwp5c/maxresdefault.jpg |
+https://www.youtube.com/watch?v=ap_r-FDwp5c
+
