@@ -1,6 +1,7 @@
 #! /usr/bin/python3
 banner = r'''
 #Cam on anh chungstudio da viet code.
+#EXTM3U
 '''
 import requests
 import os
