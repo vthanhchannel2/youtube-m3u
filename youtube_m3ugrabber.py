@@ -1,8 +1,4 @@
 #! /usr/bin/python3
-banner = r'''
-#Cam on anh chungstudio da viet code.
-#EXTM3U
-'''
 import requests
 import os
 import sys
@@ -36,7 +32,7 @@ def grab(url):
             tuner += 5
     print(f"{link[start : end]}")
 
-print(banner)
+
 s = requests.Session()
 with open('./youtube_channel_info.txt') as f:
     for line in f:
